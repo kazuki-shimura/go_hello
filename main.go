@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"study"
+	"go_hello/studyss"
 )
 
 func main() {
