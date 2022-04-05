@@ -1,10 +1,10 @@
 # go_hello
 
 ### 実行方法
-
+```
 go mod init go_hello
--> 今回は
-go_hello % go mod init go_hello としたため go_hello 以下を import できるようになる
+```
+-> 今回は go mod init go_hello としたため go_hello 以下を import できるようになる
 ex)
 
 ```:main.go
